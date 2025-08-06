@@ -1,0 +1,8 @@
+{
+  "name": "AI Phân tích tài liệu - Ver 2",
+  "description": "Trợ lý AI thông minh hỗ trợ nghiên cứu, phân tích và khai thác giá trị từ các văn bản, tài liệu chuyên môn. Ứng dụng giúp tóm tắt nội dung, nhận diện ý chính và gợi ý hướng áp dụng vào công việc.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
